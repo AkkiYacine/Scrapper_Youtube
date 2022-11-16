@@ -11,3 +11,7 @@ Mise en place de l'environnement python et installation des packages requis:
 Execution du scrapper :
 
 - python scrapper.py --input input.json --output output.json
+
+Executer les tests :
+
+- pytest -q test_fonctions.py
